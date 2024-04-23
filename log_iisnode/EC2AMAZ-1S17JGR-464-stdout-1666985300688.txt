@@ -1,0 +1,19 @@
+=========================== síncrono======================
+cargando ruta... routes/404.js
+cargando ruta... routes/candidato.js
+cargando ruta... routes/index.js
+cargando ruta... routes/lista.js
+cargando ruta... routes/solicitud-personal.js
+cargando ruta... routes/solicitud.js
+cargando ruta... routes/usuarios.js
+[0mPOST /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/usuarios/login [32m200 [0m1080.962 ms - 609[0m
+[0mGET /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/lista/estados-solicitud [32m200 [0m33.470 ms - 358[0m
+[0mGET /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/solicitud-personal/303 [32m200 [0m110.998 ms - 1244[0m
+[0mPOST /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/usuarios/login [32m200 [0m22.880 ms - 565[0m
+[0mGET /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/lista/centros-operacion [32m200 [0m48.980 ms - 16004[0m
+[0mGET /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/lista/motivo-retiro [32m200 [0m26.380 ms - 528[0m
+[0mGET /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/lista/zona [36m304 [0m18.604 ms - -[0m
+[0mGET /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/lista/tipo-vinculacion [36m304 [0m32.088 ms - -[0m
+[0mPOST /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/solicitud-personal/candidato/entrevista/guardar-estado [32m200 [0m1282.787 ms - 36[0m
+[0mGET /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/lista/desempenio [32m200 [0m29.611 ms - 243[0m
+[0mGET /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/solicitud-personal/candidato/postulacion/1379 [36m304 [0m20.317 ms - -[0m

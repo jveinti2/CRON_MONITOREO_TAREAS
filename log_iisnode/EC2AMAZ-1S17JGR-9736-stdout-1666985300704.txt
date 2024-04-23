@@ -1,0 +1,19 @@
+=========================== síncrono======================
+cargando ruta... routes/404.js
+cargando ruta... routes/candidato.js
+cargando ruta... routes/index.js
+cargando ruta... routes/lista.js
+cargando ruta... routes/solicitud-personal.js
+cargando ruta... routes/solicitud.js
+cargando ruta... routes/usuarios.js
+[0mGET /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/lista/centros-operacion [32m200 [0m126.182 ms - 16004[0m
+[0mPOST /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/solicitud-personal/solicitante/43158183 [32m200 [0m689.819 ms - 2647[0m
+[0mGET /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/solicitud-personal/candidato/postulacion/1379 [32m200 [0m157.061 ms - 1450[0m
+[0mGET /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/lista/zona [32m200 [0m14.457 ms - 591[0m
+[0mGET /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/lista/estados-solicitud [32m200 [0m22.313 ms - 358[0m
+[0mGET /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/lista/tipo-vinculacion [36m304 [0m36.775 ms - -[0m
+[0mGET /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/lista/gerencia [36m304 [0m14.484 ms - -[0m
+[0mGET /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/solicitud-personal/candidato/postulacion/1379 [36m304 [0m21.349 ms - -[0m
+[0mGET /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/solicitud-personal/candidato/postulacion/1379 [32m200 [0m34.393 ms - 1560[0m
+[0mGET /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/solicitud-personal/candidato/postulacion/1379 [36m304 [0m27.146 ms - -[0m
+[0mPOST /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/solicitud-personal/303/candidato/lista [32m200 [0m21.116 ms - 1152[0m

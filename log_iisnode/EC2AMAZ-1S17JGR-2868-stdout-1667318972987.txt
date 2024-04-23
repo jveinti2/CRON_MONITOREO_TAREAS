@@ -1,0 +1,9 @@
+=========================== síncrono======================
+cargando ruta... routes/404.js
+cargando ruta... routes/candidato.js
+cargando ruta... routes/index.js
+cargando ruta... routes/lista.js
+cargando ruta... routes/solicitud-personal.js
+cargando ruta... routes/solicitud.js
+cargando ruta... routes/usuarios.js
+[0mPOST /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/solicitud-personal/lista/postulacion/43158183 [32m200 [0m365.240 ms - 290[0m

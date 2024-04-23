@@ -1,0 +1,21 @@
+=========================== síncrono======================
+cargando ruta... routes/404.js
+cargando ruta... routes/candidato.js
+cargando ruta... routes/index.js
+cargando ruta... routes/lista.js
+cargando ruta... routes/solicitud-personal.js
+cargando ruta... routes/solicitud.js
+cargando ruta... routes/usuarios.js
+[0mPOST /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/usuarios/login [32m200 [0m858.554 ms - 609[0m
+[0mGET /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/lista/gerencia [32m200 [0m25.000 ms - 729[0m
+[0mGET /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/lista/motivo-retiro [32m200 [0m21.066 ms - 528[0m
+[0mGET /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/lista/zona [36m304 [0m13.283 ms - -[0m
+[0mGET /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/lista/centros-operacion [36m304 [0m52.759 ms - -[0m
+[0mGET /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/lista/gerencia [36m304 [0m12.626 ms - -[0m
+[0mGET /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/solicitud-personal/solicitante/1128434801/plaza [32m200 [0m27.137 ms - 13[0m
+[0mGET /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/lista/zona [36m304 [0m14.405 ms - -[0m
+[0mGET /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/lista/centros-operacion [36m304 [0m34.516 ms - -[0m
+[0mGET /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/lista/zona [36m304 [0m11.432 ms - -[0m
+[0mGET /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/lista/tipo-vinculacion [36m304 [0m18.236 ms - -[0m
+[0mGET /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/lista/cargo [36m304 [0m23.117 ms - -[0m
+[0mGET /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/solicitud-personal/306 [32m200 [0m45.434 ms - 1178[0m

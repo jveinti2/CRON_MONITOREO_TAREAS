@@ -1,0 +1,21 @@
+=========================== síncrono======================
+cargando ruta... routes/404.js
+cargando ruta... routes/candidato.js
+cargando ruta... routes/index.js
+cargando ruta... routes/lista.js
+cargando ruta... routes/solicitud-personal.js
+cargando ruta... routes/solicitud.js
+cargando ruta... routes/usuarios.js
+[0mGET /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/lista/tipo-vinculacion [32m200 [0m97.716 ms - 852[0m
+[0mPOST /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/solicitud-personal/solicitante/43158183 [32m200 [0m580.424 ms - 2647[0m
+[0mGET /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/lista/cargo [32m200 [0m63.865 ms - 53017[0m
+[0mGET /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/lista/estados-solicitud [36m304 [0m12.525 ms - -[0m
+[0mPOST /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/usuarios/login [32m200 [0m32.340 ms - 565[0m
+[0mGET /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/lista/estados-solicitud [36m304 [0m13.879 ms - -[0m
+[0mGET /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/lista/tipo-vinculacion [36m304 [0m14.193 ms - -[0m
+[0mPOST /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/solicitud-personal/solicitante/1128434801 [32m200 [0m27.273 ms - 13[0m
+[0mGET /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/lista/tipo-vinculacion [36m304 [0m25.721 ms - -[0m
+[0mGET /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/lista/gerencia [36m304 [0m11.890 ms - -[0m
+[0mGET /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/solicitud-personal/solicitante/39449029/plaza [32m200 [0m65.860 ms - 3513[0m
+[0mGET /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/solicitud-personal/plaza/253 [32m200 [0m38.972 ms - 1186[0m
+[0mPOST /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/solicitud-personal/306/candidato/lista [32m200 [0m37.292 ms - 13[0m

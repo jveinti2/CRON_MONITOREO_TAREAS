@@ -1,0 +1,60 @@
+{
+  "name": "api-node-tareas-ssp",
+  "version": "1.0.0",
+  "description": "API NODE TAREAS SSP",
+  "scripts": {
+    "start": "nodemon ./bin/www",
+    "dev": "nodemon ./bin/www"
+  },
+  "keywords": [
+    "COMEX"
+  ],
+  "author": "Jhonatan Estiven Becerra Pedrozo",
+  "license": "ISC",
+  "dependencies": {
+    "async": "2.0.0-rc.3",
+    "aws-sdk": "2.395.0",
+    "axios": "0.12.0",
+    "bluebird": "3.4.0",
+    "body-parser": "~1.15.0",
+    "connect-multiparty": "2.0.0",
+    "cookie-parser": "~1.4.1",
+    "cors": "2.7.1",
+    "cron": "^1.3.0",
+    "crypto": "0.0.3",
+    "debug": "~2.2.0",
+    "emailjs": "1.0.4",
+    "excel-export": "^0.5.1",
+    "express": "~4.13.4",
+    "html-pdf": "1.5.0",
+    "jade": "~1.11.0",
+    "jquery": "3.2.1",
+    "jsdom": "11.3.0",
+    "jwt-simple": "^0.5.6",
+    "mailin-api-node-js": "1.0.0",
+    "mkpath": "1.0.0",
+    "moment": "^2.13.0",
+    "morgan": "~1.7.0",
+    "msnodesqlv8": "^0.6.11",
+    "mssql": "3.2.1",
+    "multiparty": "4.2.1",
+    "node-base64-image": "0.1.2",
+    "nodemailer": "2.3.2",
+    "nodemailer-smtp-transport": "2.4.2",
+    "numeral": "1.5.3",
+    "q": "1.4.1",
+    "redis": "^2.8.0",
+    "request": "2.72.0",
+    "serve-favicon": "~2.3.0",
+    "socket.io": "1.4.5",
+    "tedious": "1.14.0",
+    "tedious-connection-pool": "1.0.1",
+    "underscore": "1.8.3"
+  },
+  "devDependencies": {
+    "better-npm-run": "0.0.8",
+    "concurrently": "2.0.0",
+    "json-loader": "0.5.4",
+    "nodemon": "1.9.1"
+  }
+}

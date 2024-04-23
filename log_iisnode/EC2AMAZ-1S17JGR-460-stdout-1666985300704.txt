@@ -1,0 +1,19 @@
+=========================== síncrono======================
+cargando ruta... routes/404.js
+cargando ruta... routes/candidato.js
+cargando ruta... routes/index.js
+cargando ruta... routes/lista.js
+cargando ruta... routes/solicitud-personal.js
+cargando ruta... routes/solicitud.js
+cargando ruta... routes/usuarios.js
+[0mGET /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/lista/zona [32m200 [0m621.633 ms - 591[0m
+[0mGET /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/lista/tipo-vinculacion [32m200 [0m127.928 ms - 852[0m
+[0mPOST /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/solicitud-personal/303/candidato/lista [32m200 [0m55.540 ms - 1107[0m
+[0mPOST /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/solicitud-personal/solicitante/1128434801 [32m200 [0m20.074 ms - 13[0m
+[0mGET /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/lista/tipo-vinculacion [32m200 [0m13.264 ms - 852[0m
+[0mGET /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/lista/cargo [32m200 [0m57.283 ms - 53017[0m
+[0mGET /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/lista/estados-solicitud [36m304 [0m10.140 ms - -[0m
+[0mPOST /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/solicitud-personal/candidato/entrevista/guardar [32m200 [0m82.374 ms - 36[0m
+[0mPOST /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/solicitud-personal/entrevista-jefe/guardar [32m200 [0m127.637 ms - 36[0m
+[0mPOST /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/solicitud-personal/303/candidato/lista [32m200 [0m14.189 ms - 1152[0m
+[0mGET /APIS/WebApiNode_REQUERIMIENTO_PERSONAL/solicitud-personal/303 [36m304 [0m19.389 ms - -[0m
